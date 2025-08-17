@@ -23,8 +23,8 @@ This project provides a real-time network packet analysis dashboard. It uses a c
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/premkumaranubhav123/network-packet-hosting
-cd network-packet-hosting
+git clone https://github.com/aryan-mkm/Network-Packet-analyzer
+cd Network-Packet-analyzer
 ```
 
 ### 2. Install dependencies:
